@@ -1,3 +1,7 @@
+
+![image](https://github.com/Jonathanfullstack/Calculator/assets/141459667/e83599b4-8a73-4089-8a49-139f2e42aecc)
+
+
 Calculadora
 
 Eu desenvolvi um projeto de calculadora usando JavaScript, e foi uma experiência incrível de aprendizado e prática. Comecei definindo a estrutura básica da calculadora no HTML, criando os botões numéricos, operadores e a tela de exibição dos resultados.
